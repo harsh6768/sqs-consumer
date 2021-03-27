@@ -8,6 +8,6 @@ It contains implementation of receiving messages from queue using  AWS SQS (Simp
 
 
 
-                    Url : http://localhost:3002/api/receiveMessage
-                    Method : Get 
+              Url : http://localhost:3002/api/receiveMessage
+              Method : Get 
  
