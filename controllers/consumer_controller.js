@@ -1,8 +1,8 @@
 const AWS = require('aws-sdk');
 AWS.config.update({
     region: 'us-east-2',
-    accessKeyId:'AKIAZ3SS2PVMGLSI2MMF',
-    secretAccessKey:'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'
+    accessKeyId:'',
+    secretAccessKey:''
 });
 
 // Create an SQS service object
